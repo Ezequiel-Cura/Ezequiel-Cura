@@ -1,28 +1,11 @@
 
-<img src="https://github.com/Ezequiel-Cura/Ezequiel-Cura/blob/main/helloWorld.svg" alt="hello world"/>
+[<img src="https://github.com/Ezequiel-Cura/Ezequiel-Cura/blob/main/helloWorld.svg" alt="hello world"/>
 
 <h1 align="center">Hi there!! 👋, I'm Ezequiel Cura</h1>
 
 <h3 align="center">I am 20 years old Argentinian who loves video-games and technology. I am currently focused on full stack web development and learn new technologies to exploit them. Welcome!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezequiel-cura&label=Profile%20views&color=0e75b6&style=flat" alt="ezequiel-cura" /> </p>
-
-<!-- ```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
-   technologies: {
-      frontEnd: {
-        js: ["React", "Redux"],
-        css: ["Bootstrap", "Material UI"]
-      },
-      backEnd: {
-        js: ["Node", "Express"]
-      },
-      databases: ["PostgreSQL"],
-   }
-};
-``` -->
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -56,7 +39,7 @@ const aboutMe = {
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 </br>
-
+](https://github.com/Ezequiel-Cura)
 
 
 </br>
